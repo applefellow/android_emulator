@@ -5,7 +5,7 @@ The android device and pc or laptop must be connected to the same network
 
 The android device must be enable usb debugg mode
 
-![emulator](https://user-images.githubusercontent.com/53038964/96100789-61c35d80-0ef2-11eb-832b-66a750c67366.png)
+![emulator1](https://user-images.githubusercontent.com/53038964/96101526-2d9c6c80-0ef3-11eb-920f-b355f7686044.png)
 ![android-emulator2](https://user-images.githubusercontent.com/53038964/96100799-6425b780-0ef2-11eb-858d-5a0ce787f2f1.png)
 
 
